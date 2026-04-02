@@ -150,7 +150,7 @@ AI model detecting
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/nishant-kaushal">
+<a href="www.linkedin.com/in/nishant-kaushal-7a6ab224a">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
